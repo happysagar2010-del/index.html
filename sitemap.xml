@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home page -->
   <url>
     <loc>https://happysagar2010-del.github.io/</loc>
     <lastmod>2026-02-12</lastmod>
     <priority>1.0</priority>
   </url>
+
+  <!-- Bionic Reader Pro page -->
+  <url>
+    <loc>https://happysagar2010-del.github.io/BIONIC-READER-PRO/</loc>
+    <lastmod>2026-02-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Add more pages here -->
+  <!-- Example:
+  <url>
+    <loc>https://happysagar2010-del.github.io/page-name/</loc>
+    <lastmod>2026-02-12</lastmod>
+    <priority>0.6</priority>
+  </url>
+  -->
+
 </urlset>
