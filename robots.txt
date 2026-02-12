@@ -1,4 +1,7 @@
+# robots.txt for GitHub Pages
+
 User-agent: *
 Allow: /
 
+# Sitemap location
 Sitemap: https://happysagar2010-del.github.io/sitemap.xml
